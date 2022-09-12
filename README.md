@@ -9,9 +9,11 @@ I always love to learn something new. I always enjoy learning. I always try to l
 ### Skills:
 ✅C <br>
 ✅HTML / CSS <br>
-✅PYTHON / JAVA / ANDROID <br>
-✅JAVA <br>
-✅ANDROID <br>
+✅Python <br>
+✅Java <br>
+✅Android <br>
+✅Photoshop / Illustrator <br>
+✅Video editing <br>
 
 ### About me:
 - 🔭 I’m currently working on learning github. 
